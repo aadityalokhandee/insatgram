@@ -1,3 +1,7 @@
+@font-face {
+  font-family: Gilroy;
+  src: url(./Gilroy-Regular.woff2);
+}
 * {
   margin: 0;
   padding: 0;
@@ -23,6 +27,7 @@ body {
   background-color: white;
   padding: 0vw 2vw;
   /* border: 1px solid blue; */
+  font-family: Gilroy;
 }
 
 #nav {

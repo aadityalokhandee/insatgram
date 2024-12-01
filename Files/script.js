@@ -6,51 +6,51 @@ var main = document.querySelector("#main");
 
 var arr = [
   {
-    dp: "./images/aadi.jpeg",
-    story: "./images/aadi.jpeg",
+    dp: "./images/aadi.webp",
+    story: "./images/drive2.webp",
   },
   {
-    dp: "./images/car.jpg",
-    story: "./images/car2.jpg",
-  },
-
-  {
-    dp: "./images/builder2.avif",
-    story: "./images/builder3.jpg",
+    dp: "./images/car.webp",
+    story: "./images/car2.webp",
   },
 
   {
-    dp: "./images/fashion.avif",
-    story: "./images/fashion2.jpg",
+    dp: "./images/builder2.webp",
+    story: "./images/builder3.webp",
   },
 
   {
-    dp: "./images/gandhi.avif",
-    story: "./images/gandhi2.avif",
+    dp: "./images/fashion.webp",
+    story: "./images/mru.webp",
+  },
+
+  {
+    dp: "./images/gandhi.webp",
+    story: "./images/gandhi2.webp",
   },
   {
-    dp: "./images/lens.avif",
-    story: "./images/lens2.jpg",
+    dp: "./images/lens.webp",
+    story: "./images/lens2.webp",
   },
   {
-    dp: "./images/miles.avif",
-    story: "./images/miles2.jpg",
+    dp: "./images/miles.webp",
+    story: "./images/miles2.webp",
   },
   {
-    dp: "./images/vibes.avif",
-    story: "./images/vibes2.jpg",
+    dp: "./images/vibes.webp",
+    story: "./images/vibes2.webp",
   },
   {
-    dp: "./images/pixel.avif",
-    story: "./images/pixel2.jpg",
+    dp: "./images/pixel.webp",
+    story: "./images/pixel2.webp",
   },
   {
-    dp: "./images/food.avif",
-    story: "./images/food2.jpg",
+    dp: "./images/food.webp",
+    story: "./images/food2.webp",
   },
   {
-    dp: "./images/drive.avif",
-    story: "./images/drive2.jpg",
+    dp: "./images/drive.webp",
+    story: "./images/sclass.webp",
   },
 ];
 
