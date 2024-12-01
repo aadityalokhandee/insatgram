@@ -10,8 +10,7 @@ body {
   height: 100%;
   background-color: black;
 }
-body {
-}
+
 
 #master {
   display: flex;
@@ -68,8 +67,7 @@ body {
 #stories::-webkit-scrollbar {
   display: none;
 }
-#stories i {
-}
+
 
 .story {
   gap: 50vw;
